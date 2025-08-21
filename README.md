@@ -13,5 +13,5 @@ replace `owner_telegram_id` with real bot owner's Telegram id.
 
 ## Donate to author
 <a href="https://nowpayments.io/donation?api_key=e511efb8-0aa8-4841-bca2-ac9878214052" target="_blank" rel="noreferrer noopener">
-    <img height=15% width=15% src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+    <img height=25% width=25% src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
